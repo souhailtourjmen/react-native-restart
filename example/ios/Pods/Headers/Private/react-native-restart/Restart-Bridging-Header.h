@@ -1,0 +1,1 @@
+../../../../../../ios/Restart-Bridging-Header.h
